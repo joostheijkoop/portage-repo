@@ -1,0 +1,4 @@
+dev-python/xkeysnail 0.3.0: mooz's xkeytrail key mappig utility
+dev-python/xkeysnail-rbreaves 9999: rbreaves' kinto fork of mooz's xkeytrail key mappig utility
+dev-python/inotify_simple 1.3.3: inotify_simple is a simple Python wrapper around inotify
+
