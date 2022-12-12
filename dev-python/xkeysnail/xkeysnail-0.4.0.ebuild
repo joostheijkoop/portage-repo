@@ -23,6 +23,7 @@ RDEPEND="
 	dev-python/inotify_simple[${PYTHON_USEDEP}]
 	dev-python/python-xlib[${PYTHON_USEDEP}]
 	dev-python/python-evdev[${PYTHON_USEDEP}]
+	dev-python/appdirs[${PYTHON_USEDEP}]
 "
 BDEPEND="${RDEPEND}"
 
